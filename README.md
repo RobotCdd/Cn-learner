@@ -2,7 +2,7 @@
 
 ## Description
 
-Tool that can help users learn how to read Mandarin through quizzing. Two different modes: multiple choice and typing. The user can choose between many different difficulties going from most common words to least (data via [5000-common-characters.xls](https://github.com/user-attachments/files/25726677/5000-common-characters.xls)).
+Tool that can help users learn how to read Mandarin through quizzing using Python. Two different modes: multiple choice and typing. The user can choose between many different difficulties going from most common words to least (data via [5000-common-characters.xls](https://github.com/user-attachments/files/25726677/5000-common-characters.xls)).
 
 ---
 
